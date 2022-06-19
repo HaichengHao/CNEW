@@ -48,5 +48,65 @@
     <ClCompile Include="1.3ifelseExercise.cpp">
       <Filter>源文件\chapter06</Filter>
     </ClCompile>
+    <ClCompile Include="1.4multiIfElse.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="1.5nestedIfElse嵌套分支.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="2.0SwitchDemo.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1switchExercise.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="3.0forDemo.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1for exercise1.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1for exercise2.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="4.0whileDemo.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1whileExercise1.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="5.0DoWhileDemo.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1DoWhileExercise1.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2多重循环练习1.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2多重循环练习2.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2循环联系_pyramid.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="6.0breakDemo.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1breakExercise.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="7.0ConinueDemo.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1ContinueExercise1.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="8.0GotoDemo.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="9.0综合练习.cpp">
+      <Filter>源文件\chapter06</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

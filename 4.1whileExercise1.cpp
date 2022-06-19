@@ -34,7 +34,7 @@
 //void main() {
 //	char name[10] = "";
 //	
-//	while (strcmp(name, "exit")!= 0) {
+//	while (strcmp(name, "exit")!= 0) {//strcmp(str1,str2)对两个字符串进行比较，如果真即为0
 //		printf("\n请输入名字");
 //		scanf_s("%s",name);//--->!!!这里不加地址符“&”因为数组的名称就代表他的地址
 //		printf("\n你输入的名字是=%s", name);
